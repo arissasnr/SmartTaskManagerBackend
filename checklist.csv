@@ -1,0 +1,88 @@
+﻿checklist_id,task_id,section,step_no,checklist_item,amm_reference
+C001,T001,Preparation,1,Confirm the correct aircraft effectivity and approved task instructions,AMM 32-11-0
+C002,T001,Preparation,2,Install landing gear ground lockpins,AMM 32-11-0
+C003,T001,Preparation,3,Extend the flaps to access the main gear support area,AMM 32-11-0
+C004,T001,Preparation,4,Depressurize hydraulic systems A and B,AMM 32-11-0
+C005,T001,Preparation,5,Operate the brakes to depressurize the brake accumulators,AMM 32-11-0
+C006,T001,Preparation,6,Open the applicable landing gear circuit breakers and apply safety identifiers,AMM 32-11-0
+C007,T001,Preparation,7,Remove the applicable hydraulic access panel,AMM 32-11-0
+C008,T001,Preparation,8,Remove the main gear shock strut doors,AMM 32-11-0
+C009,T001,Preparation,9,Deflate and compress the shock strut according to the AMM warning,AMM 32-11-0
+C010,T001,Preparation,10,Install the main gear oleo lock assembly,AMM 32-11-0
+C011,T001,Preparation,11,Jack the aircraft according to the approved jacking procedure,AMM 32-11-0
+C012,T001,Preparation,12,Mark the tire footprint position,AMM 32-11-0
+C013,T001,Preparation,13,Remove the main gear damper,AMM 32-11-0
+C014,T001,Removal,14,Position suitable containers for hydraulic fluid drainage,AMM 32-11-0
+C015,T001,Removal,15,Disconnect the hydraulic lines from the main landing gear,AMM 32-11-0
+C016,T001,Removal,16,Cap and plug all disconnected hydraulic lines and connections,AMM 32-11-0
+C017,T001,Removal,17,Disconnect and secure the applicable electrical harnesses,AMM 32-11-0
+C018,T001,Removal,18,Remove or disconnect the main landing gear actuator assembly as specified,AMM 32-11-0
+C019,T001,Removal,19,Support the main landing gear with the approved installation dolly,AMM 32-11-0
+C020,T001,Removal,20,Disconnect the drag strut and associated attachments according to the AMM sequence,AMM 32-11-0
+C021,T001,Removal,21,Remove the trunnion link attachments using the specified tooling,AMM 32-11-0
+C022,T001,Removal,22,Roll the main landing gear clear of the aircraft,AMM 32-11-0
+C023,T001,Installation,23,Inspect and prepare the attachment areas and components,AMM 32-11-0
+C024,T001,Installation,24,Position the replacement main landing gear beneath the aircraft,AMM 32-11-0
+C025,T001,Installation,25,Install the trunnion link and drag strut attachments in the specified sequence,AMM 32-11-0
+C026,T001,Installation,26,Install the main landing gear actuator assembly,AMM 32-11-0
+C027,T001,Installation,27,Reconnect the electrical harnesses and secure their clamps,AMM 32-11-0
+C028,T001,Installation,28,Reconnect the hydraulic lines and secure their clamps,AMM 32-11-0
+C029,T001,Installation,29,Install the main gear damper and shock strut doors,AMM 32-11-0
+C030,T001,Installation,30,Service the shock strut according to the approved procedure,AMM 32-11-0
+C031,T001,Testing,31,Restore the hydraulic system and applicable circuit breakers,AMM 32-11-0
+C032,T001,Testing,32,Perform the required landing gear operational and leak checks,AMM 32-11-0
+C033,T001,Completion,33,Confirm all tools materials locks and protective devices are accounted for,AMM 32-11-0
+C034,T001,Completion,34,Record completion and obtain the required maintenance sign-off,AMM 32-11-0
+C035,T002,Preparation,1,Confirm the correct fuel boost pump location and aircraft effectivity,AMM 28 Fuel Boost Pump Removal/Installation
+C036,T002,Preparation,2,Confirm all fuel boost pump switches are OFF,AMM 28 Fuel Boost Pump Removal/Installation
+C037,T002,Preparation,3,Confirm the fuel crossfeed valve and engine fuel shutoff valves are closed,AMM 28 Fuel Boost Pump Removal/Installation
+C038,T002,Preparation,4,Open the applicable fuel system circuit breakers and apply DO-NOT-CLOSE identifiers,AMM 28 Fuel Boost Pump Removal/Installation
+C039,T002,Preparation,5,Obtain access to the applicable fuel boost pump,AMM 28 Fuel Boost Pump Removal/Installation
+C040,T002,Removal,6,Manually close the applicable fuel boost pump removal valve,AMM 28 Fuel Boost Pump Removal/Installation
+C041,T002,Removal,7,Disconnect the electrical connector from the fuel boost pump,AMM 28 Fuel Boost Pump Removal/Installation
+C042,T002,Removal,8,Position a suitable container and drain residual fuel from the pump,AMM 28 Fuel Boost Pump Removal/Installation
+C043,T002,Removal,9,Support the fuel boost pump,AMM 28 Fuel Boost Pump Removal/Installation
+C044,T002,Removal,10,Release and move the pump mounting clamps clear,AMM 28 Fuel Boost Pump Removal/Installation
+C045,T002,Removal,11,Remove the fuel boost pump from its mounting face,AMM 28 Fuel Boost Pump Removal/Installation
+C046,T002,Installation,12,Clean the pump and mounting flange mating surfaces with approved materials,AMM 28 Fuel Boost Pump Removal/Installation
+C047,T002,Installation,13,Prepare the mating surfaces for the required electrical bond,AMM 28 Fuel Boost Pump Removal/Installation
+C048,T002,Installation,14,Inspect the flame arrestor vent port,AMM 28 Fuel Boost Pump Removal/Installation
+C049,T002,Installation,15,Install new lubricated O-rings in the pump grooves,AMM 28 Fuel Boost Pump Removal/Installation
+C050,T002,Installation,16,Prime the replacement fuel boost pump according to the AMM,AMM 28 Fuel Boost Pump Removal/Installation
+C051,T002,Installation,17,Position the fuel boost pump on its mounting face,AMM 28 Fuel Boost Pump Removal/Installation
+C052,T002,Installation,18,Install and secure the pump mounting clamps,AMM 28 Fuel Boost Pump Removal/Installation
+C053,T002,Installation,19,Reconnect the fuel boost pump electrical connector,AMM 28 Fuel Boost Pump Removal/Installation
+C054,T002,Installation,20,Check the electrical bond between the pump and aircraft structure,AMM 28 Fuel Boost Pump Removal/Installation
+C055,T002,Installation,21,Manually open the fuel boost pump removal valve,AMM 28 Fuel Boost Pump Removal/Installation
+C056,T002,Testing,22,Verify that the fuel boost pump is correctly primed,AMM 28 Fuel Boost Pump Removal/Installation
+C057,T002,Testing,23,Restore the applicable fuel system circuit breakers,AMM 28 Fuel Boost Pump Removal/Installation
+C058,T002,Testing,24,Perform the required pump operational and fuel leak checks,AMM 28 Fuel Boost Pump Removal/Installation
+C059,T002,Completion,25,Install the applicable fuel boost pump access panel,AMM 28 Fuel Boost Pump Removal/Installation
+C060,T002,Completion,26,Confirm the pump removal valve is open before closing the access area,AMM 28 Fuel Boost Pump Removal/Installation
+C061,T002,Completion,27,Remove safety identifiers and restore the aircraft configuration,AMM 28 Fuel Boost Pump Removal/Installation
+C062,T002,Completion,28,Record completion and obtain the required maintenance sign-off,AMM 28 Fuel Boost Pump Removal/Installation
+C063,T003,Preparation,1,Confirm the correct battery type and aircraft effectivity,AMM 24-31-11
+C064,T003,Removal,2,Set the battery switch to OFF,AMM 24-31-11
+C065,T003,Removal,3,Loosen the connector hand knob and disconnect the battery plug,AMM 24-31-11
+C066,T003,Removal,4,Loosen and lower the two battery hold-down knobs,AMM 24-31-11
+C067,T003,Removal,5,Remove the covered battery and holder from the battery tray,AMM 24-31-11
+C068,T003,Removal,6,Loosen the wing nuts and remove the battery from its holder,AMM 24-31-11
+C069,T003,Installation,7,Check that the battery temperature switch is correctly centered,AMM 24-31-11
+C070,T003,Installation,8,Place the covered replacement battery in its holder,AMM 24-31-11
+C071,T003,Installation,9,Align the battery cover correctly,AMM 24-31-11
+C072,T003,Installation,10,Secure the battery with the wing nuts and T-bolts,AMM 24-31-11
+C073,T003,Installation,11,Slide the battery into position against the temperature switch,AMM 24-31-11
+C074,T003,Installation,12,Confirm the temperature switch contacts the battery case correctly,AMM 24-31-11
+C075,T003,Installation,13,Raise and tighten the two battery hold-down knobs,AMM 24-31-11
+C076,T003,Installation,14,Inspect the battery connector for arcing pitting and corrosion,AMM 24-31-11
+C077,T003,Installation,15,Replace or repair an unacceptable connector according to the approved instructions,AMM 24-31-11
+C078,T003,Installation,16,Press the battery plug onto the terminal pins,AMM 24-31-11
+C079,T003,Installation,17,Tighten the battery connector hand knob,AMM 24-31-11
+C080,T003,Testing,18,Configure the applicable circuit breaker and battery switch for the battery test,AMM 24-31-11
+C081,T003,Testing,19,Select BAT on the DC meter selector,AMM 24-31-11
+C082,T003,Testing,20,Verify approximately 24 volts and observe the discharge current,AMM 24-31-11
+C083,T003,Testing,21,Restore the applicable circuit breakers,AMM 24-31-11
+C084,T003,Testing,22,Observe the battery charging current when AC power is available,AMM 24-31-11
+C085,T003,Completion,23,Set the battery switch to OFF,AMM 24-31-11
+C086,T003,Completion,24,Confirm the work area is clear and the battery is secure,AMM 24-31-11
+C087,T003,Completion,25,Record completion and obtain the required maintenance sign-off,AMM 24-31-11

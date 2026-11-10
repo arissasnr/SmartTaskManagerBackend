@@ -1,0 +1,4 @@
+﻿task_id,task_name,ata_chapter,AMM_reference,skill_required,manpower_required
+T001,Replace Main Landing Gear,ATA 32,AMM 32-11-0,B1 Technician,4
+T002,Replace Fuel Boost Pump,ATA 28,AMM 28 Fuel Boost Pump Removal/Installation,B1 Technician,2
+T003,Replace Nickel-Cadmium Storage Battery,ATA 24,AMM 24-31-11,B2 Technician,2
