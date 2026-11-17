@@ -649,6 +649,39 @@ def approve_user():
 
     }
 
+@app.route("/reject_user")
+def reject_user():
+
+    user_id = request.args.get(
+        "user_id"
+    )
+
+    users_df = pd.read_csv(
+        "users.csv"
+    )
+
+    users_df = users_df[
+
+        users_df["user_id"]
+        !=
+        int(user_id)
+
+    ]
+
+    users_df.to_csv(
+        "users.csv",
+        index=False
+    )
+
+    return {
+
+        "status":"success",
+
+        "message":
+            "User rejected"
+
+    }
+
 if __name__ == "__main__":
     app.run(
         host="0.0.0.0",
