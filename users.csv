@@ -1,0 +1,9 @@
+user_id,name,email,password,role,status
+1,Admin,admin@stm.com,admin123,admin,approved
+2,Sofia,sofia@gmail.com,123456,technician,approved
+3,Siti,siti@gmail.com,123456,technician,approved
+4,Zikry,zikry@gmail.com,123456,technician,approved
+5,Aqil,aqil@gmail.com,123456,technician,approved
+6,Arissa,arissa@gmail.com,123456,technician,approved
+7,Test User,testuser999@gmail.com,123456,technician,approved
+8,Test User,testuser1000@gmail.com,123456,technician,approved
