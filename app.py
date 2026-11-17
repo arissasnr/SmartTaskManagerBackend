@@ -467,6 +467,10 @@ def test_upload():
 @app.route("/login")
 def login():
 
+    users_df = pd.read_csv(
+        "users.csv"
+    )
+
     email = request.args.get(
         "email"
     )
@@ -516,6 +520,10 @@ def login():
 
 @app.route("/signup")
 def signup():
+
+    users_df = pd.read_csv(
+    "users.csv"
+)
 
     name = request.args.get("name")
 
